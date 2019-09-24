@@ -1,0 +1,31 @@
+.Blog {
+	margin-bottom: 3.5rem;
+}
+
+.Blog p {
+	margin-top: 0.25rem;
+}
+
+.Blog h1 a {
+	color: var(--pink);
+}
+
+.Title {
+	display: flex;
+	align-items: center;
+}
+
+.Blog:first-of-type .Title span {
+	display: initial;
+	background: #fd0;
+	color: var(--darker);
+	font-size: 1rem;
+	margin-left: 1rem;
+	padding: 0 0.4rem 0.25rem 0.4rem;
+	border-radius: 100px;
+	font-weight: bold;
+}
+
+.Title span {
+	display: none;
+}

@@ -1,0 +1,28 @@
+.Navbar {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	padding: 1.5rem 0 3rem 0;
+}
+
+.Logo img {
+	height: 6rem;
+	width: 6rem;
+	border: 2px solid #fff;
+	border-radius: 100px;
+}
+
+.Brand {
+	text-align: right;
+}
+
+.Brand h1 {
+	line-height: 1;
+	margin-bottom: 0.25rem;
+}
+
+.Brand small {
+	opacity: 0.75;
+	font-family: 'Consolas', 'Courier New', Courier, monospace;
+}
