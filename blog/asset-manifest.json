@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/internship-2019/blog/static/css/main.948090d6.chunk.css",
-    "main.js": "/internship-2019/blog/static/js/main.3c065107.chunk.js",
-    "main.js.map": "/internship-2019/blog/static/js/main.3c065107.chunk.js.map",
+    "main.css": "/internship-2019/blog/static/css/main.126dd71a.chunk.css",
+    "main.js": "/internship-2019/blog/static/js/main.ec268270.chunk.js",
+    "main.js.map": "/internship-2019/blog/static/js/main.ec268270.chunk.js.map",
     "runtime-main.js": "/internship-2019/blog/static/js/runtime-main.be5006fc.js",
     "runtime-main.js.map": "/internship-2019/blog/static/js/runtime-main.be5006fc.js.map",
     "static/js/2.6276d442.chunk.js": "/internship-2019/blog/static/js/2.6276d442.chunk.js",
     "static/js/2.6276d442.chunk.js.map": "/internship-2019/blog/static/js/2.6276d442.chunk.js.map",
     "index.html": "/internship-2019/blog/index.html",
-    "precache-manifest.5c4da093537acc5b9d38f79abeb24541.js": "/internship-2019/blog/precache-manifest.5c4da093537acc5b9d38f79abeb24541.js",
+    "precache-manifest.a72bbc6d411ea8c926160ca5c6452e2c.js": "/internship-2019/blog/precache-manifest.a72bbc6d411ea8c926160ca5c6452e2c.js",
     "service-worker.js": "/internship-2019/blog/service-worker.js",
-    "static/css/main.948090d6.chunk.css.map": "/internship-2019/blog/static/css/main.948090d6.chunk.css.map",
+    "static/css/main.126dd71a.chunk.css.map": "/internship-2019/blog/static/css/main.126dd71a.chunk.css.map",
     "static/media/avatar.jpg": "/internship-2019/blog/static/media/avatar.a18cdddc.jpg"
   }
 }
