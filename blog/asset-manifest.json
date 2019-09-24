@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "%7Bhttps://arish-shah.github.io/internship-2019/blog%7D/static/css/main.98ac618e.chunk.css",
-    "main.js": "%7Bhttps://arish-shah.github.io/internship-2019/blog%7D/static/js/main.efac7f60.chunk.js",
-    "main.js.map": "%7Bhttps://arish-shah.github.io/internship-2019/blog%7D/static/js/main.efac7f60.chunk.js.map",
-    "runtime-main.js": "%7Bhttps://arish-shah.github.io/internship-2019/blog%7D/static/js/runtime-main.6b815bff.js",
-    "runtime-main.js.map": "%7Bhttps://arish-shah.github.io/internship-2019/blog%7D/static/js/runtime-main.6b815bff.js.map",
-    "static/js/2.b9137699.chunk.js": "%7Bhttps://arish-shah.github.io/internship-2019/blog%7D/static/js/2.b9137699.chunk.js",
-    "static/js/2.b9137699.chunk.js.map": "%7Bhttps://arish-shah.github.io/internship-2019/blog%7D/static/js/2.b9137699.chunk.js.map",
-    "index.html": "%7Bhttps://arish-shah.github.io/internship-2019/blog%7D/index.html",
-    "precache-manifest.fce20acf6da670bc48eb9053ce4d9ecb.js": "%7Bhttps://arish-shah.github.io/internship-2019/blog%7D/precache-manifest.fce20acf6da670bc48eb9053ce4d9ecb.js",
-    "service-worker.js": "%7Bhttps://arish-shah.github.io/internship-2019/blog%7D/service-worker.js",
-    "static/css/main.98ac618e.chunk.css.map": "%7Bhttps://arish-shah.github.io/internship-2019/blog%7D/static/css/main.98ac618e.chunk.css.map",
-    "static/media/avatar.jpg": "%7Bhttps://arish-shah.github.io/internship-2019/blog%7D/static/media/avatar.938f1547.jpg"
+    "main.css": "/internship-2019/blog/static/css/main.98ac618e.chunk.css",
+    "main.js": "/internship-2019/blog/static/js/main.057d301e.chunk.js",
+    "main.js.map": "/internship-2019/blog/static/js/main.057d301e.chunk.js.map",
+    "runtime-main.js": "/internship-2019/blog/static/js/runtime-main.315aa938.js",
+    "runtime-main.js.map": "/internship-2019/blog/static/js/runtime-main.315aa938.js.map",
+    "static/js/2.b9137699.chunk.js": "/internship-2019/blog/static/js/2.b9137699.chunk.js",
+    "static/js/2.b9137699.chunk.js.map": "/internship-2019/blog/static/js/2.b9137699.chunk.js.map",
+    "index.html": "/internship-2019/blog/index.html",
+    "precache-manifest.ecc7eeeb76ce5c1f2a423f8a69982698.js": "/internship-2019/blog/precache-manifest.ecc7eeeb76ce5c1f2a423f8a69982698.js",
+    "service-worker.js": "/internship-2019/blog/service-worker.js",
+    "static/css/main.98ac618e.chunk.css.map": "/internship-2019/blog/static/css/main.98ac618e.chunk.css.map",
+    "static/media/avatar.jpg": "/internship-2019/blog/static/media/avatar.938f1547.jpg"
   }
 }
