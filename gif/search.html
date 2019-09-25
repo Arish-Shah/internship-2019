@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+		<link rel="stylesheet" href="./src/css/main.css" />
+		<title>Document</title>
+	</head>
+	<body>
+		<div class="Search">
+			<nav>
+				<div class="container">
+					<h3><a href="/">GIF Search</a></h3>
+					<form onsubmit="handleSubmit(event)">
+						<input type="text" autofocus />
+						<button type="submit">🔎</button>
+					</form>
+				</div>
+			</nav>
+			<div class="container">
+				<div class="gif-container">
+					<div class="spinner"></div>
+				</div>
+			</div>
+		</div>
+		<script>
+			const spinner = document.querySelector('.spinner');
+			gifContainer = document.querySelector('.gif-container');
+
+			function handleSubmit(event) {
+				event.preventDefault();
+				clearContainer();
+				gifContainer.appendChild(spinner);
+				const q = event.target[0].value.trim();
+				window.location.hash = q;
+			}
+		</script>
+		<script src="./src/index.js"></script>
+	</body>
+</html>
