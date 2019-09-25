@@ -28,18 +28,16 @@ export const data = [
 		link: 'hamlet-act-I-scene-II',
 		title: 'Hamlet: Act I Scene II, Line 465',
 		description: 'Elsinore, a room of state in the castle.',
-		content: `	
-	If it assume my noble father’s person, 	
-	I’ll speak to it though hell itself should gape
-	And bid me hold my peace. I pray you all,
-	If you have hitherto conceal’d this sight,
-	Let it be tenable in your silence still,
-	And whatsomever else shall hap tonight,
-	Give it an understanding but no tongue.
-	I will requite your loves. So fare you well.
-	Upon the platform ’twixt eleven and twelve
-	I’ll visit you.`,
-
+		content: `If it assume my noble father’s person, 
+		\nI’ll speak to it though hell itself should gape 
+		\nAnd bid me hold my peace. I pray you all, 
+		\nIf you have hitherto conceal’d this sight, 
+		\nLet it be tenable in your silence still, 
+		\nAnd whatsomever else shall hap tonight, 
+		\nGive it an understanding but no tongue. 
+		\nI will requite your loves. So fare you well. 
+		\nUpon the platform ’twixt eleven and twelve 
+		\nI’ll visit you.`,
 		date: '13 March 1609',
 		len: '2 min read ☕'
 	}

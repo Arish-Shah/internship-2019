@@ -24,6 +24,7 @@ h1 {
 	font-size: 1.1rem;
 	line-height: 1.5;
 	opacity: 0.9;
+	overflow-wrap: break-word;
 }
 
 .Content h1,
@@ -45,8 +46,13 @@ h1 {
 	margin-bottom: 1.5rem;
 }
 
+pre {
+	overflow-wrap: break-word;
+}
+
 .Content code {
 	font-family: 'Consolas', 'Courier New', Courier, monospace;
+	overflow-wrap: break-word;
 }
 
 .Footer {
