@@ -2,7 +2,7 @@ const gifContainer = document.querySelector('.gif-container');
 
 window.onload = window.onhashchange = function() {
 	const q = window.location.hash.slice(1) || 'cats';
-	document.querySelector('input[type=text]').value = q;
+	document.querySelector('input[type=text]').value = this.decodeURIComponent(q);
 
 	getGIF(q);
 };
