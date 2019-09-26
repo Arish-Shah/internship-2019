@@ -11,7 +11,7 @@
 		<div class="Search">
 			<nav>
 				<div class="container">
-					<h3><a href="/">GIF Search</a></h3>
+					<h3><a href="index.html">GIF Search</a></h3>
 					<form onsubmit="handleSubmit(event)">
 						<input type="text" autofocus />
 						<button type="submit">🔎</button>
@@ -20,12 +20,14 @@
 			</nav>
 			<div class="container">
 				<div class="gif-container">
-					<div class="spinner"></div>
+					<div class="loader">
+						Loading...
+					</div>
 				</div>
 			</div>
 		</div>
 		<script>
-			const spinner = document.querySelector('.spinner');
+			const spinner = document.querySelector('.loader');
 			gifContainer = document.querySelector('.gif-container');
 
 			function handleSubmit(event) {

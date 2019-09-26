@@ -84,7 +84,6 @@ button[type='submit'] {
 	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 	background-size: 400% 400%;
 	animation: gradientBG 10s ease infinite;
-	position: fixed;
 	width: 100%;
 }
 
@@ -124,19 +123,7 @@ button[type='submit'] {
 	padding: 0.5rem;
 }
 
-.spinner {
-	height: 6rem;
-	width: 6rem;
-	border: 8px solid #eee;
-	border-radius: 100px;
-	border-top: 8px solid #007bff;
-	animation: spin 1s infinite linear;
-	position: relative;
-	left: 30vw;
-}
-
 .gif-container {
-	padding-top: 4.5rem;
 	text-align: center;
 	margin: 0 auto;
 	line-height: 0;
@@ -188,15 +175,6 @@ button[type='submit'] {
 	}
 }
 
-@keyframes spin {
-	from {
-		transform: rotate(0deg);
-	}
-	to {
-		transform: rotate(360deg);
-	}
-}
-
 @keyframes gradientBG {
 	0% {
 		background-position: 0% 50%;
@@ -207,4 +185,10 @@ button[type='submit'] {
 	100% {
 		background-position: 0% 50%;
 	}
+}
+
+.loader {
+	color: #333;
+	position: absolute;
+	margin: 2rem auto;
 }
